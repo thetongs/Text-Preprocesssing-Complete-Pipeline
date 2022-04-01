@@ -117,7 +117,6 @@ In their oldest forms, cakes were modifications of bread, but caakes now cover a
 that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, 
 and pies BRB :-) 🔥"""
 
-
 data_ = text_preprocessing(data)
 print(data_)
 # cake form sweet food made flour sugar ingredi usual bake oldest form cake modif bread cake cover wide rang prepar simpl elabor share featur dessert pastri meringu custard pie be right back happyfacesmiley fire
